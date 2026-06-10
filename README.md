@@ -228,3 +228,4 @@ Health check selesai!
 - **[Excel Auto Cleaner Formatter](https://github.com/FairuzFernanda30/excel-cleaner)**
 - **[PDF to Excel Extractor](https://github.com/FairuzFernanda30/pdf-to-excel-extractor)**
 - **[Customer Churn Prediction](https://github.com/FairuzFernanda30/churn-app)**
+- **[PC-Health-Checkup-Using-Python](https://github.com/FairuzFernanda30/PC-Health-Check-using-Python)**
