@@ -223,7 +223,8 @@ Health check selesai!
 * GitHub: [@FairuzFernanda30](https://github.com/FairuzFernanda30)
 
 ### 🔗 Other Projects
-- **Customer Churn Prediction**
-- **PDF to Excel Extractor**
-- **Web Scraper - Books to Scrape**
-- **Excel Auto Cleaner Formatter**
+- **[PC Health Check Utility](https://github.com/FairuzFernanda30/PC-Health-Check-using-Python)**
+- **[Web Scraper - Books to Scrape](https://github.com/FairuzFernanda30/Web-Scraper)**
+- **[Excel Auto Cleaner Formatter](https://github.com/FairuzFernanda30/excel-cleaner)**
+- **[PDF to Excel Extractor](https://github.com/FairuzFernanda30/pdf-to-excel-extractor)**
+- **[Customer Churn Prediction](https://github.com/FairuzFernanda30/churn-app)**
