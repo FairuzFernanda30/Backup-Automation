@@ -1,0 +1,20 @@
+==================================================
+PC HEALTH CHECK REPORT
+==================================================
+Waktu: 2026-06-10 19:00:18
+Komputer: LAPTOP-xxxxxxxx
+Sistem: Windows 11
+--------------------------------------------------
+CPU usage: 6.3%
+RAM usage: 76.7% (11 GB / 15 GB)
+Storage usage: 97.3%
+Disk usage: 97.3% (Free: 4 GB / Total 181 GB)
+Uptime: 3 hari, 2 jam, 19 menit
+--------------------------------------------------
+GPU: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+Suhu GPU: 47 C
+--------------------------------------------------
+Status Baterai: 80% (Di-charge (AC))
+Sisa Waktu Baterai: Tersambung ke daya AC
+==================================================
+Health check selesai!

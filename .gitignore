@@ -1,0 +1,20 @@
+# Hint file (pembelajaran)
+backuphint.py
+Day-to-day plan.txt
+
+# Folder hasil backup lokal
+backup_destination/
+
+# Folder log lokal
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
