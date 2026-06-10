@@ -80,8 +80,6 @@ Destination: backup_destination
 [LOG] [OK] Backup completed! Saved at: backup_destination\backup_20260610_190020
 ==================================================
 ```
-*Screenshot of execution:*
-![Terminal Execution Demo](screenshots/terminal_run.png)
 
 ### 2. Generated PC Health Report (Example)
 ```text
@@ -106,8 +104,6 @@ Battery Time Left: Connected to AC Power
 ==================================================
 Health check completed!
 ```
-*Screenshot of generated file:*
-![PC Health Report Demo](screenshots/health_report.png)
 
 <br>
 <hr>
@@ -195,8 +191,6 @@ Destination: backup_destination
 [LOG] [OK] Backup completed! Saved at: backup_destination\backup_20260610_190020
 ==================================================
 ```
-*Tangkapan layar jalannya program:*
-![Demo Eksekusi Terminal](screenshots/terminal_run.png)
 
 ### 2. Berkas Laporan PC Health yang Dihasilkan (Contoh)
 ```text
@@ -221,8 +215,6 @@ Sisa Waktu Baterai: Tersambung ke daya AC
 ==================================================
 Health check selesai!
 ```
-*Tangkapan layar isi file laporan:*
-![Demo Laporan PC Health](screenshots/health_report.png)
 
 ---
 
